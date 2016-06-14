@@ -1,2 +1,2 @@
 # hello-world
-repo for the tutorial
+I enjoy learning and trying new things.
